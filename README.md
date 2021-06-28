@@ -22,6 +22,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="c" src="https://img.shields.io/badge/c%20-%23232F3E?logo=c&logoColor=#15425e&style=for-the-badge" />
 <img align="left" alt="java" src="https://img.shields.io/badge/java%20-%230077B5?logo=java&logoColor=white&style=for-the-badge" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-%23232F3E?logo=javascript&logoColor=yellow&style=for-the-badge" />
+<br>
 <img align="left" alt="php" src="https://img.shields.io/badge/php%20-%230077B5?logo=php&logoColor=purple&style=for-the-badge" />
 <br>
 <br>
