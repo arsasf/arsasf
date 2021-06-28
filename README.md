@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aulia-sftr/)
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%16807F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/aularsf_/)
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%80003E.svg?&style=for-the-badge&logo=instagram&logoColor=black" />](https://www.instagram.com/aularsf_/)
 <br>
 <br>
 ## Skill
