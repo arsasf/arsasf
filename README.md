@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aulia-sftr/)
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%2380003D.svg?&style=for-the-badge&logo=instagram&logoColor=black" />](https://www.instagram.com/aularsf_/)
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%2380003D.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/aularsf_/)
 <br>
 <br>
 ## Skill
@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="c" src="https://img.shields.io/badge/c%20-%23fcd303?logo=c&logoColor=#15425e&style=for-the-badge" />
 <img align="left" alt="java" src="https://img.shields.io/badge/java%20-%23404040?logo=java&logoColor=white&style=for-the-badge" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-%23232F3E?logo=javascript&logoColor=yellow&style=for-the-badge" />
-<img align="left" alt="php" src="https://img.shields.io/badge/php%20-%23630bb0?logo=php&logoColor=purple&style=for-the-badge" />
+<img align="left" alt="php" src="https://img.shields.io/badge/php%20-%23630bb0?logo=php&logoColor=white&style=for-the-badge" />
 <br>
 <br>
 <br>
